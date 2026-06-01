@@ -67,4 +67,5 @@ The linear transaction records were aggregated into individual human profiles ($
 
 ## 📂 Repository Layout
 * `Online_Retail_Customer_Segmentation.ipynb` -> Comprehensive, fully documented Jupyter Notebook containing data pipeline engineering and machine learning structures.
+* `online_retail.csv` -> **(Local File - Excluded from Git)** The original source dataset downloaded from Kaggle/UCI. Keep this file in your root working directory to execute the notebook.
 * `README.md` -> High-impact executive portfolio documentation.
